@@ -1,16 +1,16 @@
 
 # Site settings
-title: Paul E. Soto
-name: Paul E. Soto
-subtitle: Financial Economist
-email: paul.soto@upf.edu
+title: Wang Wenhui William
+name: Wang Wenhui William
+subtitle: PhD Candidate
+email: whwang@connect.hku.hk
 description: >
-  Financial Economist
+  PhD Candidate
 baseurl: ""
-url: "https://pesoto.github.io/"
-github_username:  pesoto
-disqus_baseurl: "https://pesoto.github.io/"
-disqus_shortname: https-pesoto-github-io
+url: "https://wangwhw.github.io/"
+github_username:  wangwhw
+disqus_baseurl: "https://wangwhw.github.io/"
+disqus_shortname: https-wangwhw-github-io
 permalink: :title
 
 # Build settings
@@ -24,7 +24,7 @@ defaults:
     scope:
       path: ""
     values:
-      author: "Paul E. Soto"
+      author: "Wang Wenhui William"
 
 
 
@@ -37,16 +37,10 @@ gems:
 
 
 social:
-  - name: GitHub
-    icon: github
-    username: pesoto
-    url: https://github.com/pesoto
-    desc: Fork me on GitHub
-    share: false
 
-  - name: LinkedIn
-    icon: linkedin
-    username: Paul E. Soto
-    url: https://linkedin.com/pesoto
+  - name: ResearchGate
+    icon: ResearchGate
+    username: Wenhui Wang
+    url: https://www.researchgate.net/profile/Wenhui_Wang9
     desc: Connect with me on LinkedIn
     share: true
